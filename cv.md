@@ -6,7 +6,7 @@ ___
 ### Contact  deatils:
 
 - email: irena.zakaluzna@gmail.com
-- LinkedIn: linkedin.com/in/irena-zakaluzna-185556100
+- LinkedIn: https://linkedin.com/in/irena-zakaluzna-185556100
 - GitHub: https://github.com/IrishTea
 - Discord: IrishTea#0347
 ***
