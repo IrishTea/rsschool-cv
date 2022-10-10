@@ -3,12 +3,13 @@
 ***
 ##### Junior Front-End Developer
 ___
-### Contact  deatils:
+### Contact  details:
 
 - email: irena.zakaluzna@gmail.com
-- LinkedIn: https://linkedin.com/in/irena-zakaluzna-185556100
-- GitHub: https://github.com/IrishTea
+- [LinkedIn](https://linkedin.com/in/irena-zakaluzna-185556100)
+- [GitHub]:(https://github.com/IrishTea)
 - Discord: IrishTea#0347
+
 ***
 
 ### Summary
