@@ -14,7 +14,7 @@ ___
 
 ### Summary
 
-Always willing to develop myself in different branches and try something new, I've already chellanged myself in Education (assistant at the University, Polish Language Teacher) in Tourism Business (Office-manager in touristic company), in Customer Support (Google AdWords), in HR branch and Relocation/Immigration Support. It's time for new chellange - Software Engineering. 
+Always willing to develop myself in different branches and try something new, I've already challenged myself in Education (assistant at the University, Polish Language Teacher) in Tourism Business (Office-manager in touristic company), in Customer Support (Google AdWords), in HR branch and Relocation/Immigration Support. It's time for new challenge - Software Engineering. 
 
 I had some experience with programming at the University long time ago, as one of my responsibilites was checking practical tasks made by students in C++ language. At that time I got more satisfaction from communication with students, thats why later I chose jobs connected with personal intercomunication. But now I miss all that technical staff, so it's a high time to refresh my mind and grow as Front-End Developer.  
 
