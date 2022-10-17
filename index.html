@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="chrome=1">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Irena Zakaluzna-CV</title>
-        <link href='https://fonts.googleapis.com/css?family=Mate' rel='stylesheet'>
+        <link href="https://fonts.googleapis.com/css?family=Mate" rel="stylesheet">
        <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -72,18 +72,22 @@ console.log(`My kitchen's width is ${kitchen.dimentions.width}`);
                      <h2>English language level</h2>
                      <div class="divided-by-columns">
                      <table>
-                        <tr>
-                            <th>Skill</th>
-                            <th>Level</th>
-                        </tr>
-                        <tr>
+                         <thead>
+                            <tr>
+                                <th scope="col">Skill</th>
+                                <th scope="col">Level</th>
+                            </tr>
+                         </thead>
+                         <tbody>
+                            <tr>
                              <td>Speaking</td>
                              <td>B2+</td>
-                        </tr>
-                        <tr>
+                            </tr>
+                             <tr>
                             <td>Writing</td>
                             <td>B2</td>
-                        </tr>
+                            </tr>
+                         </tbody>
                      </table>
                      <div class="english-usage">
                          <p>Generally my current job demands conversation in English for about 80% of working time. It’s mainly writing emails, but also meetings and presentations.</p>
